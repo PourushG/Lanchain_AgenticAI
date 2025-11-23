@@ -1,0 +1,2 @@
+This is the sample content from a w+ model created file
+this is the second line
