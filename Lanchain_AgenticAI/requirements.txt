@@ -19,3 +19,7 @@ faiss-cpu
 langchain_chroma
 langchain-ollama
 langchain_groq
+langserve
+fastapi
+uvicorn
+sse_starlette
